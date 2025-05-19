@@ -1,0 +1,4 @@
+📧 Emails: ['rajveer@example.com', 'first.last@company.co.uk']
+🔗 URLs: ['https://www.example.com,', 'https://sub.example.org/page']
+📞 Phones: ['(123) ', '123-', '123.']
+🏷️ Hashtags: ['#example', '#ThisIsAHashtag']
